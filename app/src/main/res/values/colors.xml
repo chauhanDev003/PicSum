@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#F8F7FF</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="blue">#5E56E7</color>
+    <color name="black">#333333</color>
+    <color name="gray">#F8F7FF</color>
+    <color name="txt_gray">#F0F0F6</color>
+    <color name="text_black">#000</color>
+    <color name="card_bg">#333</color>
+    <color name="title_color">#666</color>
+    <color name="toolbar_color">#D7D7D8</color>
+    <color name="text_shadow">#666</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PicSum</string>
+    <string name="app_name2">BookShelf</string>
+    <string name="text_please_wait">Please wait..</string>
+    <string name="text_bookListViewTitle">PicSum BookShelf</string>
+    <string name="text_DeveloperIntro">Developed by: Abhishek Chauhan</string>
+    <string name="img_discription">book image</string>
+</resources>
